@@ -1,7 +1,7 @@
 function App() {
 
   return (
-    <h1 className="head-text">React App</h1>
+    <h1 className="head-text">ThreeJS</h1>
   )
 }
 
