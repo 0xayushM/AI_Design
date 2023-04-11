@@ -15,4 +15,4 @@ function App() {
 
 export default App
 
-// threejs project 
+// threejs project for ZScalar
