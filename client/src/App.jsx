@@ -15,4 +15,4 @@ function App() {
 
 export default App
 
-// threejs project for ZScalar whiteboard presentation
+// threejs project for ZScalar whiteboard presentation and interview and main project
